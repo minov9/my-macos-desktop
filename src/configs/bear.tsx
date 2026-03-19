@@ -63,6 +63,20 @@ const bear: BearData[] = [
         excerpt: "微信小程序 AI 客服，流式对话 + 多模型切换"
       },
       {
+        id: "coinpulse",
+        title: "CoinPulse",
+        file: "markdown/project-coinpulse.md",
+        icon: "i-ri:stock-line",
+        excerpt: "iOS 原生加密货币追踪，SwiftUI + 零第三方依赖"
+      },
+      {
+        id: "moodflow",
+        title: "MoodFlow",
+        file: "markdown/project-moodflow.md",
+        icon: "i-ri:mental-health-line",
+        excerpt: "Flutter 治愈系情绪日记，珊瑚暖色调 Apple 风格"
+      },
+      {
         id: "hotel-website",
         title: "澄境雅舍",
         file: "markdown/project-hotel-website.md",
