@@ -13,7 +13,7 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              你好！我是 Mino，一名多端全栈开发者。
+              你好！我是 Mino，做产品的人。用 AI 把一个人变成一支团队。
             </div>
           </div>
         )
@@ -22,7 +22,7 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Web 开发 / React / TypeScript / 开源项目"
+        content: "Web / iOS / Flutter / 小程序 / AI / 全栈产品开发"
       },
       {
         id: "about-who-cares",

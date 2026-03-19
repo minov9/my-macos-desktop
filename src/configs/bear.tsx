@@ -11,7 +11,7 @@ const bear: BearData[] = [
         title: "关于我",
         file: "markdown/about-me.md",
         icon: "i-la:dragon",
-        excerpt: "独立开发者，做产品也接商业项目"
+        excerpt: "做产品的人，用 AI 把一个人变成一支团队"
       },
       {
         id: "github-stats",
